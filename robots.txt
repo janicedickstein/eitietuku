@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quemieluto.davidrayside.ca/sitemap.xml
